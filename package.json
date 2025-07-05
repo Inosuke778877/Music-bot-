@@ -1,0 +1,23 @@
+{
+  "name": "trash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.1",
+    "canvas": "^3.1.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.1",
+    "genius-lyrics-api": "^3.2.1",
+    "musicard": "^2.0.5",
+    "riffy": "^1.0.7",
+    "riffy-spotify": "^1.0.2"
+  }
+}
